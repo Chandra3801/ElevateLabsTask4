@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class Working {
+public class Task4 {
 
     private static final String FILE_NAME = "notes.txt";
 
